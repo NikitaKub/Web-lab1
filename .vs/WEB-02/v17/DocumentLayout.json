@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\University\\C#\\Works\\WEB-02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\pages\\weather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:pages\\weather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\models\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:models\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:pages\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|f:\\university\\c#\\works\\web-02\\pages\\weather.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575DDAF6-CC66-4C4F-9A9F-2B1284E2FF97}|WEB-02.csproj|solutionrelative:pages\\weather.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-17T11:52:37.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Product.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Product.cshtml",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Product.cshtml",
+              "RelativeToolTip": "Pages\\Product.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T12:06:29.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cshtml.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Product.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Product.cshtml.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Product.cshtml.cs",
+              "RelativeToolTip": "Pages\\Product.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:06:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.cshtml.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Weather.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Weather.cshtml.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Weather.cshtml.cs",
+              "RelativeToolTip": "Pages\\Weather.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:06:29.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.cshtml",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Weather.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Weather.cshtml",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Pages\\Weather.cshtml",
+              "RelativeToolTip": "Pages\\Weather.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T12:06:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Component.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Models\\Component.cs",
+              "RelativeDocumentMoniker": "Models\\Component.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Models\\Component.cs",
+              "RelativeToolTip": "Models\\Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:06:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Models\\ViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:06:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T12:06:29.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:06:29.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\University\\C#\\Works\\WEB-02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\University\\C#\\Works\\WEB-02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:06:29.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

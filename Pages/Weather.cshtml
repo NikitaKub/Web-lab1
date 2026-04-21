@@ -1,0 +1,26 @@
+﻿@page
+@model WEB_02.Pages.WeatherModel
+@{
+}
+<div class="text-center">
+    @if (Request.Method == "POST")
+    {
+        <p>Weather: <b>@Model.Weather.Weather.First().Main</b></p>
+        <p>Condition:<b>@Model.Weather.Weather.First().Description</b></p>
+        <p>Temperature: <b>@Model.Weather.Main.Temp ℃</b></p>
+        <p>Minimum:<b>@Model.Weather.Main.TempMin ℃</b></p>
+        <p>Maximum: <b>@Model.Weather.Main.TempMax ℃</b></p>
+        <p>Wind speed:<b>@Model.Weather.Wind.Speed m/s </b></p>
+    }
+    else
+    {
+        <form method="post">
+            <div class="form-group">
+                <label>city:</label>
+                <input type="text" name="city" />
+            </div>
+            <br />
+            <button type="submit">Continue</button>
+        </form>
+    }
+</div>

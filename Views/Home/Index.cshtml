@@ -1,0 +1,39 @@
+﻿@model Registration
+@{
+    ViewData["Title"] = "Home Page";
+}
+<form method="post" asp-controller="Home" asp-action="Check">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+
+    <label asp-for="Date"></label>
+    <input asp-for="Date" />
+    <span asp-validation-for="Date"></span>
+
+    <label asp-for="Subject"></label>
+    <select asp-for="Subject">
+        <option>
+            JS
+        </option>
+        <option>
+            C#
+        </option>
+        <option>
+            Java
+        </option>
+        <option>
+            Python
+        </option>
+        <option>
+            Основи
+        </option>
+    </select>
+    <span asp-validation-for="Subject"></span>
+
+    <input type="submit" />
+</form>
